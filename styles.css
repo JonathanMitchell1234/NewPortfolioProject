@@ -86,7 +86,7 @@ body {
   
   
   
-  /* Style the video: 100% width and height to cover the entire window */
+  
 #myVideo {
     position: fixed;
     right: 0;
@@ -96,8 +96,8 @@ body {
     overflow: hidden;
   }
   
-  /* Add some content at the bottom of the video/page */
-  .content {
+ 
+.content {
     position: sticky;
     bottom: 400px;
     text-align: center;
